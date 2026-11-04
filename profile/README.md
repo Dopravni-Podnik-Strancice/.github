@@ -1,7 +1,7 @@
 # 💫 About Us:
 
 🌱 We are currently learning App & Game Development <br>
-💬 Ask us about Apps, Games and Collab with [RedFox Studios](https://github.com/redfox-studios) and [WhiteCadDevs](https://github.com/WhiteCatDevs) <br>
+💬 Ask us about Apps, Games and Collab with [WhiteCadDevs](https://github.com/WhiteCatDevs) <br>
 ⚡ Fun fact, we like cats
 
 # 💻 Tech Stack:
